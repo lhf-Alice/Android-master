@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Alice</string>
+    <string name="title_activity_change_wallpaper">ChangeWallpaperActivity</string>
+</resources>
